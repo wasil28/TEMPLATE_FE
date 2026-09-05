@@ -1,6 +1,8 @@
 # TEMPLATE_FE
 
 Frontend dasar — Nuxt 3 (`ssr: false`, SPA) + Pinia + Tailwind + lucide + sweetalert2.
+Pasangannya: [TEMPLATE_BE](https://github.com/wasil28/TEMPLATE_BE) — cara memulai proyek
+baru dari kedua template ada di README repo itu.
 
 **Yang sudah ada:** halaman login / lupa sandi / reset sandi, shell aplikasi (topbar dengan pil peran & avatar, sidebar ber-grup per peran dari API), halaman profil, utilitas admin (pengguna, peran, menu, otorisasi), jaring "dalam pengembangan" untuk route yang belum dibuat, dan **layar contoh `Catatan`** yang memakai seluruh pola baku.
 
